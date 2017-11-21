@@ -1,2 +1,2 @@
 # Project1
-shell script for kepping track of a user log in
+shell script for keeping track of a user log-in
